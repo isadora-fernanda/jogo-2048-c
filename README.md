@@ -1,8 +1,8 @@
 # Jogo 2048 em C
 
-Versão para terminal do jogo **2048**, escrita em C em 2017 como trabalho da disciplina de Construção de Algoritmos, do curso de Engenharia Eletrônica da UTFPR. Foi um dos meus primeiros programas completos, com menu, regras, pontuação e ranking.
+Versão para terminal do jogo **2048**, escrita em C em 2017 como trabalho em dupla da disciplina de Construção de Algoritmos, do curso de Engenharia Eletrônica da UTFPR. Foi um dos meus primeiros programas completos, com menu, regras, pontuação e ranking.
 
-> **English:** terminal version of the 2048 puzzle game, written in C in 2017 for the Algorithm Construction course (UTFPR, Electronics Engineering). Features a menu, instructions, score tracking and a high-score ranking.
+> **English:** terminal version of the 2048 puzzle game, written in C in 2017 as a pair project for the Algorithm Construction course (UTFPR, Electronics Engineering). Features a menu, instructions, score tracking and a high-score ranking.
 
 ## Como funciona
 
@@ -63,4 +63,4 @@ Mantive o código como foi entregue em 2017, com só dois ajustes: incluí `coni
 
 ---
 
-Desenvolvido por **Isadora Fernanda Zappe Schmidt** · [LinkedIn](https://www.linkedin.com/in/isadora-fernanda)
+Trabalho desenvolvido em dupla. Repositório mantido por **Isadora Fernanda Zappe Schmidt** · [LinkedIn](https://www.linkedin.com/in/isadora-fernanda)
